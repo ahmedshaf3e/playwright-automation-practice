@@ -49,7 +49,7 @@ The framework includes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/playwright-automation-practice.git
+git clone https://github.com/aeshamangukiya/playwright-automation-practice
 cd playwright-automation-practice
 ```
 
