@@ -1,4 +1,4 @@
-# Hybrid Test Automation Framework  
+# Playwright Automation Practice | Hybrid Test Automation Framework  
 ### *Built with Playwright, TypeScript, Test Runner, Allure Reports & Page Object Model (POM)*
 
 ---
